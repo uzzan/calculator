@@ -12,6 +12,9 @@ namespace CalculatorConsoleApp
 		}
 	}
 }
+
 //larevel
 //cobakomen
 //cobacobadong
+//onaka suita
+//alalalaja
