@@ -12,3 +12,5 @@ namespace CalculatorConsoleApp
 		
 	}
 }
+//onaka suita
+//alalalaja
